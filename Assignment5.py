@@ -32,7 +32,7 @@ print();
 print("The smallest number in 'List' :",min(List));
 print();
 
-print("The largest number in 'List'  :",min(List));
+print("The largest number in 'List'  :",max(List));
 print();
 
 List.sort();
@@ -68,7 +68,7 @@ del List;
 
 # The smallest number in 'List' : -4
 
-# The largest number in 'List'  : -4
+# The largest number in 'List'  : 9
 
 # Displaying 'List' in ascending order  := List = [-4, 0, 6, 7, 9]
 
